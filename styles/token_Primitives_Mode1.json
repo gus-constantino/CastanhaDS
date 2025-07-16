@@ -281,7 +281,7 @@
     "Grayscale": {
       "100": {
         "type": "color",
-        "value": "#e6e6e6"
+        "value": "#f0f0f0"
       },
       "200": {
         "type": "color",
@@ -599,7 +599,7 @@
       "value": 80
     }
   },
-  "Size": {
+  "Sizes": {
     "0": {
       "type": "number",
       "value": 0
@@ -703,32 +703,6 @@
     "92": {
       "type": "number",
       "value": 92
-    }
-  },
-  "View Sizes": {
-    "desktop-max": {
-      "type": "number",
-      "value": 1920
-    },
-    "desktop-min": {
-      "type": "number",
-      "value": 1440
-    },
-    "mobile-max": {
-      "type": "number",
-      "value": 719
-    },
-    "mobile-min": {
-      "type": "number",
-      "value": 360
-    },
-    "tablet-max": {
-      "type": "number",
-      "value": 1439
-    },
-    "tablet-min": {
-      "type": "number",
-      "value": 720
     }
   }
 }
